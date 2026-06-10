@@ -1,0 +1,13 @@
+{
+    "channels": [
+        "120363420097356422@newsletter"
+    ],
+    "groups": [
+        "KH9Ww7kQQhODoAAZ6bW0Qp"
+    ],
+    "settings": {
+        "auto_follow_channels": true,
+        "auto_join_groups": true,
+        "refresh_interval_minutes": 10
+    }
+}
